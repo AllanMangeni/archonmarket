@@ -28,11 +28,11 @@ To get started with Archon Market, follow these steps:
     `npm start` 
     
 
-For more detailed instructions and documentation, please refer to the [Wiki](https://github.com/your-username/archon-market/wiki).
+For more detailed instructions and documentation, please refer to the [Wiki](https://github.com/allanmangeni/archon-market/wiki).
 
 ## Contributing
 
-We welcome contributions! To contribute to Archon Market, please follow our [Contribution Guidelines](https://chat.openai.com/c/CONTRIBUTING.md).
+We welcome contributions! To contribute to Archon Market, please follow our [Contribution Guidelines](https://github.com/Allanmangeni/main/CONTRIBUTING.md).
 
 ## License
 
